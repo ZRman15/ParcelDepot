@@ -2,6 +2,8 @@
 
 The Parcel Management System is a Java-based application designed to manage parcels and customers in a depot. It provides functionalities for adding, removing, and updating parcels, as well as generating system reports.
 
+### Written in Java as part of a coding project for Software Architecture.
+
 ## Getting Started
 
 ### Prerequisites
